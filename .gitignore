@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.publishsettings
+*.pubxml
